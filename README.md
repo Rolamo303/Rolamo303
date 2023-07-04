@@ -1,16 +1,19 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Rolamo303/Rolamo303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rômulo Wislei
 
-Here are some ideas to get you started:
+- Estou estudando no Alura;
+- Estou me desenvolvemento na linguagem JavaScript
+- Sou menor de idade
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+romulo.queiroz@escola.pr.gov.br
+ 
+@Rolamo303
+
+
+![](https://media.tenor.com/hrstDWGqx_0AAAAC/ashita-no-joe-joe-yabuki.gif)
+
+
